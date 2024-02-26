@@ -113,11 +113,11 @@ a {
 /* start media query */
 @media (max-width: 992px) {
   .svg-desktop {
-    transform: translate(-40%, -60%);
-    -webkit-transform: translate(-40%, -60%);
-    -moz-transform: translate(-40%, -60%);
-    -ms-transform: translate(-40%, -60%);
-    -o-transform: translate(-40%, -60%);
+    transform: translate(-46%, -60%);
+    -webkit-transform: translate(-46%, -60%);
+    -moz-transform: translate(-46%, -60%);
+    -ms-transform: translate(-46%, -60%);
+    -o-transform: translate(-46%, -60%);
   }
   .mockup img {
     width: 100%;
@@ -147,4 +147,4 @@ a {
     justify-content: center !important;
   }
 }
-/* end media query */
+@media(); /* end media query */
